@@ -18,7 +18,7 @@ tab_home, tab_ml, tab_eda = st.tabs([
 
 with tab_home:
 
-    st.title("Hi, I'm Parara 👋")
+    st.title("Hi, I'm Felia 👋")
     st.subheader("Head of Automation, AI & ML · Bank MAS (Wings Group)")
 
     col_photo, col_bio = st.columns([1, 3])
